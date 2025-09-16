@@ -12,6 +12,6 @@
 
 ## Deployment
 The project is deployed here:  
-👉 [View Live Demo on Netlify](https://yourprojectname.netlify.app)
+👉 [View Live Demo on Netlify](https://adorable-taiyaki-beb32a.netlify.app/)
 
 ---
