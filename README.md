@@ -10,4 +10,8 @@
   - Highlights them in a green box with 🌱 icon.
 - **Image Fallback**: Host thumbnail loads first, then thse main host photo replaces it if available.
 
+## Deployment
+The project is deployed here:  
+👉 [View Live Demo on Netlify](https://yourprojectname.netlify.app)
+
 ---
